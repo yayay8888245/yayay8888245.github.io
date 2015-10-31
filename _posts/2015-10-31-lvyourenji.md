@@ -24,4 +24,14 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 //加图片  ! [注解]  (图片地址)
 
-![旅游照片](/res/img/blog/2015/10/31/hkpb.jpg)
+![](/res/img/blog/2015/10/31/hkpb.jpg)
+**今天真高兴**
+//引用 >
+> 今天吃饭吃不下
+> 昨天
+> 明天
+
+//视频链接
+
+贝爷来中国啦
+<iframe height=498 width=510 src="http://player.youku.com/embed/XMTM3Mzc0ODA3Mg==" frameborder=0 allowfullscreen></iframe>
