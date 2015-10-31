@@ -13,4 +13,15 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 正文
 
-!(标注)[/res/img/icon.jpg]
+//文字带链接  [名字](链接) 来实现
+例如:今天我在京东看见一个杯子,[点这里杯子的购买链接](http://channel.jd.com/electronic.html)挺不错的,保温性能非常好
+//存链接  <链接>  实现
+例如:这个杯子的链接<http://channel.jd.com/electronic.html> 
+
+//字体加粗
+
+**旅游日记**
+
+//加图片  ! [注解]  (图片地址)
+
+![旅游照片](/res/img/blog/2015/10/31/hkpb.jpg)
