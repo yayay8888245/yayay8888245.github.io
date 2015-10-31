@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         kramdown
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            bo &amp; wen
+tagline:          '博文的博客'
+description:      '以生之有涯随知之无涯，殆矣，然何为，为何为。'
+url:              http://bowen.love
+
+author:
+  name:           'bowen'
+  url:            http://bowen.love
+
+paginate:         10
+
+# Custom vars
+
+github:
+  repo:           
