@@ -34,4 +34,5 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 //视频链接
 
 贝爷来中国啦
-<embed src="http://player.youku.com/player.php/Type/Folder/Fid/26184443/Ob/1/sid/XMTM3Mzc0ODA3Mg==/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" allowFullScreen="true" mode="transparent" type="application/x-shockwave-flash"></embed>
+
+<embed src="http://player.youku.com/player.php/Type/Folder/Fid/26184443/Ob/1/sid/XMTM3Mzc0ODA3Mg==/v.swf" quality="high" width="900" height="600" align="middle" allowScriptAccess="always" allowFullScreen="true" mode="transparent" type="application/x-shockwave-flash">
